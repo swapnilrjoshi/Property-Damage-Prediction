@@ -25,4 +25,4 @@ When listing wind speed values under Magnitude (e.g., 81 kts.), the value listed
 - Windspeed: Reported average wind speed during the event.
 - IsPropertyDamage: If property damage resulted from the event.
 
-For more information on data check:https://www.ncdc.noaa.gov/stormevents/faq.jsp
+For more information on data check: https://www.ncdc.noaa.gov/stormevents/faq.jsp
