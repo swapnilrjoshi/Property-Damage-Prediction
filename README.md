@@ -1,6 +1,6 @@
 # Property Damage Prediction
 
-Predict property damage from an ensuring weather event, so that the insurance company can hold on writing new insurance policies in that area
+Insurance companies write insurance policies year-round in most regions of every state. The exception to this is that before severe storms they may place a hold on writing new policies due to a higher likelihood of property damage resulting from the storm. The project predicts property damage from an ensuring weather event so that the insurance company can hold on to writing new insurance policies in that area.
 
 ## Data
 The dataset is taken from [NOAA](https://www.noaa.gov/) and contains information on all storms in the US since 2006.
